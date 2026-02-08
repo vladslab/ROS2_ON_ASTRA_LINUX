@@ -78,7 +78,7 @@ https://ubuntu.com/download/desktop
 <img width="1920" height="1080" alt="Screenshot_20260207_182858" src="https://github.com/user-attachments/assets/426859ef-d097-4897-86e3-43bcbfdb6565" />
 
 
-При необходимости можно настроить перенапарвление USB, к примеру для подключеня ESP
+При необходимости можно настроить перенаправление USB, к примеру для подключеня ESP
 
 <img width="1278" height="237" alt="Screenshot_20260207_171111123123945" src="https://github.com/user-attachments/assets/c1158541-7673-4527-af5e-ac8b2fd88c7c" />
 
