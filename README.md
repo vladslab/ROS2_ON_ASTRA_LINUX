@@ -20,7 +20,7 @@ https://ubuntu.com/download/desktop
 
 `sudo apt install virt-manager`
 
-Добавляем пользователя в группы, необходимые для работы виртальной машины
+Добавляем пользователя в группы, необходимые для работы виртуальной машины
 
 `sudo usermod -a -G livvirt,libvirt-admin,libvirt-qemu,kvm $USER`
 
@@ -37,7 +37,7 @@ https://ubuntu.com/download/desktop
 
 Установка ubuntu, настройка виртуальной машины
 
-Нажимаем на кнопку создания виртальной машины
+Нажимаем на кнопку создания виртуальной машины
 ![Screenshot](https://github.com/user-attachments/assets/df536ada-e205-4762-bf59-624d68722c2d)  
 
 
@@ -66,7 +66,7 @@ https://ubuntu.com/download/desktop
 
 <img width="695" height="600" alt="Screenshot_20260207_172031" src="https://github.com/user-attachments/assets/2c1da6df-dec5-4bda-9d5b-dd1d07c943e1" />
 
-Нажимаем "Готово" и устанвливем ОС, настраиваем её, сеть должна заработать сама, если это не так, то можно воспользовать официальной wiki https://wiki.libvirt.org/TaskNATSetupVirtManager.html
+Нажимаем "Готово" и устанвливем ОС, настраиваем её, сеть должна заработать сама, если это не так, то можно воспользоваться официальной wiki https://wiki.libvirt.org/TaskNATSetupVirtManager.html
 
 <img width="1920" height="1080" alt="Screenshot_20260207_172157" src="https://github.com/user-attachments/assets/6eb8e974-a3b8-42aa-a319-6e0bfd0ffc5e" />
 
