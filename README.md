@@ -67,6 +67,7 @@ https://ubuntu.com/download/desktop
 <img width="695" height="600" alt="Screenshot_20260207_172031" src="https://github.com/user-attachments/assets/2c1da6df-dec5-4bda-9d5b-dd1d07c943e1" />
 
 Нажимаем "Готово" и устанвливем ОС, настраиваем её, сеть должна заработать сама, если это не так, то можно воспользоваться официальной wiki https://wiki.libvirt.org/TaskNATSetupVirtManager.html
+<img width="699" height="611" alt="image" src="https://github.com/user-attachments/assets/d7ffa1b5-a117-4a86-bd0b-f1289302bc27" />
 
 <img width="1920" height="1080" alt="Screenshot_20260207_172157" src="https://github.com/user-attachments/assets/6eb8e974-a3b8-42aa-a319-6e0bfd0ffc5e" />
 
